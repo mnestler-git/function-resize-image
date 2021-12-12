@@ -1,0 +1,14 @@
+{
+  "name": "eventgrid",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@azure/storage-blob": "^10.3.0",
+    "jimp": "^0.13.0"
+  },
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "devDependencies": {}
+}
